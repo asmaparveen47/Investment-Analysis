@@ -1,11 +1,14 @@
 # Investment-Analysis
 🏵Hello...... 
+
 As part of the internship at Cognifyz Technologies. I have developed "𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝"
 
 Basically I have divided dashboard into 3 segments:
 
 » Investment 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲𝘀
+
 » Investment 𝗥𝗲𝗮𝘀𝗼𝗻𝘀
+
 » Investment 𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻𝘀
 
 👀 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀 𝗮𝗻𝗱 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀
